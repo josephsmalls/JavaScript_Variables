@@ -4,11 +4,13 @@ console.log(
 );
 
 // Exercise 1
-const FirstName = "Joseph";
-let LastName = "Heitzmann";
+const firstName = "Joseph";
+let lastName = "Heitzmann";
 var age = "23";
 
 // Exercise 2
-let FullName = "Joseph Heitzmann";
+let fullName = "Joseph Heitzmann";
 
 // Exercise 3
+let myStory =
+  "Hello! My name is ${josephHeitzmann}. I live in ${southMississippi}. I play ${drums} in my free time.";
