@@ -4,7 +4,11 @@ console.log(
 );
 
 // Exercise 1
+const FirstName = "Joseph";
+let LastName = "Heitzmann";
+var age = "23";
 
 // Exercise 2
+let FullName = "Joseph Heitzmann";
 
 // Exercise 3
